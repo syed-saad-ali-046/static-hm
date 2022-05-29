@@ -1,8 +1,6 @@
 /*
 
-TemplateMo 571 Hexashop
 
-https://templatemo.com/tm-571-hexashop
 
 */
 
@@ -2366,6 +2364,9 @@ responsive
     width: 79%;
     margin-left: 11%;
   }
+  #content{  
+    font-size: 37px;
+}
 }
 @media(max-width:450px){
   #setimg{
@@ -2390,6 +2391,9 @@ responsive
     height: 340px;
     width: 358px;
     margin-left: 1px;
+  }
+  #content{
+    font-size: 37px;
   }
 
 }
